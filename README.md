@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Ex-1 2_page-0001](https://github.com/Raji1009/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/89059861/9dc681cc-30bb-4a5d-90ba-aee386643146)
+![Exercise - 1 2_page-0001](https://github.com/Raji1009/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/89059861/3365868f-6c96-4026-8283-cedc1174bffc)
 
  
  ## RESULT
